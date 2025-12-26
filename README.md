@@ -3,7 +3,11 @@ What this is
 
 This repository contains a strict problem-clarification protocol designed to act as an entry gate for serious decision work.
 
-Its sole purpose is to transform a vague, confused, or poorly articulated input into:
+It exists for one reason only:
+
+To prevent analysis, writing, or decision-making from starting on the wrong problem.
+
+The protocol transforms a vague, confused, or poorly articulated input into:
 
 a clearly rephrased problem
 
@@ -13,7 +17,7 @@ one actionable central question
 
 one clear direction toward the appropriate next conversation
 
-This protocol does not solve anything.
+It does not solve anything.
 It determines what kind of work should happen next — or whether work should happen at all.
 
 What this protocol does
@@ -21,15 +25,25 @@ What this protocol does
 When applied to an input, the protocol performs one single pass and produces:
 
 1. Simple Rephrasing
-One clear sentence restating the problem without extrapolation.
+
+One clear sentence restating the problem, without extrapolation or interpretation.
 
 2. Main Missing Element Identified
-One critical missing element (objective, constraint, or context).
+
+Exactly one critical missing element:
+
+objective
+
+constraint
+
+or essential context
 
 3. Central Question
+
 One simple, actionable question that captures the real issue.
 
 4. Recommended Direction
+
 One — and only one — recommended next conversation:
 
 🥇 Decision Analyst
@@ -42,6 +56,7 @@ One — and only one — recommended next conversation:
 
 No alternatives.
 No branching.
+No hedging.
 
 What this protocol explicitly does NOT do
 
@@ -128,6 +143,7 @@ No additional commentary is allowed.
 Why this exists
 
 Most failed decisions are not caused by poor analysis.
+
 They are caused by:
 
 solving the wrong problem
