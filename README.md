@@ -1,13 +1,13 @@
-# problem-clarifier — Orientation Protocol
+🧭 problem-clarifier — Orientation Protocol
 What this is
 
-This repository contains a strict problem-clarification protocol designed to operate as an entry gate for serious decision work.
+This repository contains a strict problem-clarification protocol designed to act as an entry gate for serious decision work.
 
 Its sole purpose is to transform a vague, confused, or poorly articulated input into:
 
 a clearly rephrased problem
 
-the single most important missing element
+the single most critical missing element
 
 one actionable central question
 
@@ -20,27 +20,28 @@ What this protocol does
 
 When applied to an input, the protocol performs one single pass and produces:
 
-Simple Rephrasing
+1. Simple Rephrasing
 One clear sentence restating the problem without extrapolation.
 
-Main Missing Element Identified
+2. Main Missing Element Identified
 One critical missing element (objective, constraint, or context).
 
-Central Question
+3. Central Question
 One simple, actionable question that captures the real issue.
 
-Recommended Direction
+4. Recommended Direction
 One — and only one — recommended next conversation:
 
 🥇 Decision Analyst
 
-🥈 Executive Summary
+🥈 Executive Synthesis Engine
 
 🥉 Executive Writer
 
 🛡️ Critical Decision Review
 
-No alternatives. No branching.
+No alternatives.
+No branching.
 
 What this protocol explicitly does NOT do
 
@@ -80,7 +81,7 @@ provides one direction only
 
 prioritizes speed and discipline over precision
 
-It demonstrates the orientation logic, not the full decision-grade execution.
+It demonstrates the orientation logic, not full decision-grade execution.
 
 When to use this
 
@@ -104,7 +105,7 @@ risks must be assessed
 
 accountability is required
 
-In those cases, this protocol should only act as a gate, not a solution.
+In those cases, this protocol should act only as a gate, not a solution.
 
 Output format (immutable)
 
@@ -131,7 +132,7 @@ They are caused by:
 
 solving the wrong problem
 
-analyzing before the decision exists
+analyzing before a real decision exists
 
 writing before intent is clear
 
@@ -141,7 +142,7 @@ This protocol exists to stop that failure mode early.
 
 Escalation
 
-This repository covers only the clarification stage.
+This repository covers clarification only.
 
 If a real, high-stakes, accountable decision exists, escalation to a decision-grade framework is required.
 
@@ -164,8 +165,7 @@ is available here:
 Final note
 
 This protocol is intentionally strict.
-It is designed to refuse comfort, exploration, and premature execution.
+It refuses comfort, exploration, and premature execution.
 
 If that feels limiting, this tool is not for you.
-
 If that feels relieving, you are using it correctly.
